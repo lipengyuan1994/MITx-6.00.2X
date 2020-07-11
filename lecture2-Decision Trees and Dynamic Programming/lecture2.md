@@ -1,4 +1,5 @@
 Author: Pytrick 🌰
+---
 
 contents in lecture 2:
 * The Pros and Cons of Greedy
@@ -11,7 +12,7 @@ contents in lecture 2:
 ---
 
 * Search Tree Algorithm
-    * Gave us a better answer than any of the greedy solutions
+    * Gave us a **better** answer than any of the greedy solutions
     * Finished quickly
 
 * Is It Hopeless?

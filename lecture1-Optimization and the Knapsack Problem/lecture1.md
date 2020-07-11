@@ -5,7 +5,8 @@ contents in lecture 1:
     * A greedy algorithm is often a practical approach to finding a pretty good approximate solution to an optimization problem
 2. Knapsack Problem
 3. Brute Force Algorithm
-    * Enumerate all possible combinations of items. That is to say, generate all subsets of the set of subjects. This is called the **power set**.
+    * Enumerate all possible combinations of items. 
+    That is to say, generate all subsets of the set of subjects. This is called the **power set**.
     * Remove all of the combinations whose total units exceeds the allowed weight.
     * From the remaining combinations choose any one whose value is the largest.
 4. Brute Force is Often Not Practical
@@ -40,7 +41,6 @@ contents in lecture 1:
 ![](./lecture1-image/21.jpg)
 ![](./lecture1-image/22.jpg)
 ![](./lecture1-image/23.jpg)
-![](./lecture1-image/24.jpg)
 ![](./lecture1-image/25.jpg)
 ![](./lecture1-image/26.jpg)
 ![](./lecture1-image/27.jpg)

@@ -5,7 +5,11 @@ Author: Pengyuan Li  🌰
 
 [Link to MITx 6.00.2x in edX](https://courses.edx.org/courses/course-v1:MITx+6.00.2x+1T2020)
 
-
+---
+### Blog Posts:
+* My Medium Publication: [DIDS](https://medium.com/self-training-data-science-enthusiast)
+* [Dynamic programming](https://medium.com/self-training-data-science-enthusiast/dynamic-programming-656ab645d474)
+* [Brute Force Algorithm and Greedy Algorithm](https://medium.com/self-training-data-science-enthusiast/brute-force-algorithm-and-greedy-algorithm-13195d48e9bf)
 
 --- 
 update on May 27, 2020 
@@ -19,9 +23,16 @@ I public this repo, but don't just copy and paste my code, please think about my
 
 
 
-There's an old Chinese saying:  书山有路勤为径，学海无涯苦作舟。 
+There's an old Chinese saying:  
+> 书山有路勤为径，学海无涯苦作舟。 
+>
 
 Happy learning! 
+ 
+ 
+---
+file structure 
+ 
  
 ---
 update on Jun 24, 2020 
